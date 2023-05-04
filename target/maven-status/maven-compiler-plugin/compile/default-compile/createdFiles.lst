@@ -1,0 +1,5 @@
+com\azure\spring\sample\storage\queue\ReceiveService.class
+com\azure\spring\sample\storage\queue\SendController$1.class
+com\azure\spring\sample\storage\queue\StorageQueueIntegrationApplication.class
+com\azure\spring\sample\storage\queue\SendController$StorageQueueOutboundGateway.class
+com\azure\spring\sample\storage\queue\SendController.class
